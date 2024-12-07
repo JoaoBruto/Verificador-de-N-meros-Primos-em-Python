@@ -15,4 +15,6 @@ Possíveis Melhorias Futuras:
 Adicionar uma interface gráfica simples (GUI) para melhorar a experiência do usuário.
 Implementar suporte para verificar listas de números em vez de apenas um número por vez.
 Gerar relatórios sobre números primos dentro de um intervalo.
+
+
 O projeto é pequeno, educativo e ótimo para praticar lógica de programação!
